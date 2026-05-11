@@ -121,10 +121,16 @@
 # 📊 Estatísticas do GitHub
 
 <p align="center">
+  
+<img 
+height="180em" 
+src="https://github-readme-stats-sigma-five.vercel.app/api?username=miguel14535&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true"
+/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=miguel14535&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguel14535&layout=compact&theme=github_dark&hide_border=true"/>
+<img 
+height="180em" 
+src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=miguel14535&layout=compact&theme=github_dark&hide_border=true"
+/>
 
 </p>
 
@@ -134,11 +140,11 @@
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=miguel14535&theme=github-dark-blue&hide_border=true"/>
+<img 
+src="https://github-readme-streak-stats.herokuapp.com/?user=miguel14535&theme=github-dark&hide_border=true"
+/>
 
 </p>
-
----
 
 # 🌐 Contato
 
