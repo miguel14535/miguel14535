@@ -1,127 +1,184 @@
-<div align="center">
+<!-- ========================= HEADER ========================= -->
 
-# 👋 Olá, eu sou Miguel Dhein
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:6a00ff,50:00c6ff,100:00f7ff&text=Miguel%20Dhein&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Web%20•%20Suporte%20Técnico%20com%20APIs&descAlignY=55&descSize=18"/>
+</p>
 
-### 💻 Desenvolvedor Full Stack em formação | Suporte Técnico | APIs REST
+<!-- ========================= TYPING ========================= -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C2FF&height=250&section=header&text=Miguel%20Dhein&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=24&center=true&vCenter=true&width=1000&lines=Desenvolvedor+Web+em+constante+evolução;Experiência+com+APIs+REST+e+Suporte+Técnico;Criando+interfaces+modernas+e+responsivas;Sempre+aprendendo+novas+tecnologias"/>
+</p>
 
 ---
 
-# 🚀 Sobre mim
+# 👨‍💻 Sobre Mim
 
-🎓 Estudante e desenvolvedor apaixonado por tecnologia  
-💼 Experiência com suporte técnico e integração de APIs REST  
-🌐 Desenvolvimento de aplicações web modernas  
-📚 Sempre buscando aprender novas tecnologias e evoluir profissionalmente  
-⚡ Focado em criar soluções eficientes e com boa experiência para o usuário
+🎯 Olá! Me chamo **Miguel Dhein** e sou apaixonado por tecnologia e desenvolvimento web.
+
+💡 Tenho experiência com **Suporte Técnico focado em APIs**, trabalhando com:
+
+- APIs REST
+- Requisições HTTP
+- Postman
+- Validação JSON
+- Autenticação
+- Documentação técnica
+- Atendimento ao cliente
+
+🚀 Atualmente sigo evoluindo como desenvolvedor, criando projetos modernos, responsivos e focados em experiência do usuário.
+
+📚 Sempre buscando aprender novas tecnologias e aprimorar minhas habilidades.
+
+---
+
+# 🚀 Tecnologias & Ferramentas
+
+## 🎨 Frontend
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000"/>
+  <img src="https://img.shields.io/badge/Responsive%20Design-00C2FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Flexbox-7C3AED?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CSS%20Grid-06B6D4?style=for-the-badge"/>
+</p>
+
+---
+
+## ⚙️ Backend & Banco de Dados
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,mysql"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/APIs%20REST-00F7FF?style=for-the-badge"/>
+</p>
+
+---
+
+## 🛠️ Ferramentas
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JSON-111827?style=for-the-badge&logo=json&logoColor=white"/>
+  <img src="https://img.shields.io/badge/API%20Testing-9333EA?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/HTTP%20Requests-0EA5E9?style=for-the-badge"/>
+</p>
 
 ---
 
 # 💼 Experiência Profissional
 
-## 🔹 Suporte Técnico / APIs — Ticket Log
+## 🧩 Suporte Técnico & APIs — Ticket Log
+
 📅 1 ano e 3 meses
 
-- Integração e consumo de APIs REST
-- Testes de endpoints com Postman
-- Análise de requisições HTTP
-- Validação de respostas JSON
-- Suporte técnico relacionado a integrações
-- Comunicação com clientes para resolução de demandas
-- Noções de autenticação e segurança de APIs
+✔️ Consumo de APIs REST  
+✔️ Requisições HTTP  
+✔️ Postman  
+✔️ Validação JSON  
+✔️ Autenticação  
+✔️ Documentação técnica  
+✔️ Atendimento e suporte a clientes  
 
 ---
 
-## 🔹 Desenvolvedor Web — Projetos Acadêmicos
+## 🌐 Desenvolvedor Web Acadêmico — 2024
 
-- Desenvolvimento de sistemas web
-- Interfaces modernas e responsivas
-- Criação de aplicações utilizando HTML, CSS e JavaScript
-- Testes, depuração e melhorias de código
-- Banco de dados SQL
-
----
-
-## 🔹 Jovem Aprendiz — Sugar Shoes
-
-📅 2020 — 2022
-
-- Controle de qualidade
-- Apoio à equipe de produção
-- Organização de processos
-- Comunicação de melhorias
+✔️ HTML  
+✔️ CSS  
+✔️ JavaScript  
+✔️ UX/UI  
+✔️ Banco de Dados SQL  
+✔️ Testes e depuração  
 
 ---
 
-# 🛠️ Tecnologias e Ferramentas
+## 🧠 Liderança em Projeto Acadêmico — Banco de Dados & Testes
 
-<div align="center">
-
-<img height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-<img height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-<img height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<img height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-
-</div>
+✔️ Estruturação de banco de dados  
+✔️ Organização de equipe  
+✔️ Planejamento de funcionalidades  
+✔️ Validação do sistema  
 
 ---
 
-# 📊 Estatísticas GitHub
+# 📊 Estatísticas do GitHub
 
-<div align="center">
+<p align="center">
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=miguel14535&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=miguel14535&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguel14535&layout=compact&langs_count=7&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguel14535&layout=compact&theme=github_dark&hide_border=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=miguel14535&theme=tokyonight" />
-
-</div>
+</p>
 
 ---
 
-# 🌎 Contato
+# 🔥 Sequência de Commits
 
-<div align="center">
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=miguel14535&theme=github-dark-blue&hide_border=true"/>
+
+</p>
+
+---
+
+# 🌐 Contato
+
+<p align="center">
 
 <a href="mailto:migueldhein50@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-<a href="https://github.com/miguel14535">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=00F7FF"/>
 </a>
 
 <a href="https://www.linkedin.com/in/miguel-dhein-46484b2ba/?skipRedirect=true">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://portifolio-78ko.vercel.app/#">
-<img src="https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=vercel&logoColor=white">
+  <img src="https://img.shields.io/badge/Portfólio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-</div>
+</p>
 
 ---
 
-# 🎯 Objetivo
+# 📚 Idiomas
 
-Busco oportunidades para crescer profissionalmente na área de tecnologia, contribuindo com soluções modernas, desenvolvimento web e suporte técnico, enquanto continuo evoluindo minhas habilidades como desenvolvedor Full Stack.
+🌎 Português — Nativo  
+📘 Inglês — Básico  
 
 ---
 
-<div align="center">
+# ✨ Objetivo
 
-✨ Obrigado por visitar meu perfil ✨
+🎯 Buscando crescer profissionalmente na área de tecnologia, contribuindo com soluções modernas, aprendizado contínuo e desenvolvimento de sistemas de qualidade.
 
-</div>
+---
+
+<!-- ========================= FOOTER ========================= -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00f7ff,50:6a00ff,100:00c6ff"/>
+</p>
+
+<p align="center">
+  <i>"Transformando ideias em experiências digitais modernas."</i>
+</p>
