@@ -102,6 +102,10 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguel14535&
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
+<a href="https://www.linkedin.com/in/miguel-dhein-46484b2ba/?skipRedirect=true">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
 <a href="https://portifolio-78ko.vercel.app/#">
 <img src="https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=vercel&logoColor=white">
 </a>
