@@ -32,7 +32,7 @@
 <div align="center">
 
 | 👤 | Informação |
-|:---:|:---|
+|:---:|:---;|
 | 🧑‍💻 | **Miguel Dhein** |
 | 📍 | Brasil 🇧🇷 |
 | 💼 | Desenvolvedor Web & Suporte Técnico em APIs |
