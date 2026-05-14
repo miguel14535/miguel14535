@@ -29,18 +29,20 @@
 
 ## 👨‍💻 Sobre Mim
 
-<div align="center">
+```yaml
+👤 Nome: Miguel Dhein
+📍 Localização: Brasil 🇧🇷
+💼 Área: Desenvolvimento Web & APIs REST
+🌎 Idiomas: Português (Nativo) · Inglês (Básico)
+📚 Perfil: Sempre aprendendo novas tecnologias
+🎯 Objetivo: Crescimento profissional em tecnologia
+```
 
-| 👤 | Informação |
-|:---:|:---;|
-| 🧑‍💻 | **Miguel Dhein** |
-| 📍 | Brasil 🇧🇷 |
-| 💼 | Desenvolvedor Web & Suporte Técnico em APIs |
-| 🌎 | Português (Nativo) · Inglês (Básico) |
-| 📚 | Sempre aprendendo novas tecnologias |
-| 🎯 | Buscando crescimento profissional em tecnologia |
+💻 Desenvolvedor apaixonado por tecnologia, interfaces modernas e soluções eficientes.
 
-</div>
+🚀 Experiência com desenvolvimento web, APIs REST, bancos de dados SQL e criação de aplicações modernas.
+
+🔥 Focado em evolução constante, performance e experiência do usuário.
 
 <br/>
 
@@ -112,6 +114,7 @@
 <td>
 
 ### 🧩 Suporte Técnico & APIs — Ticket Log
+
 📅 **1 ano e 3 meses**
 
 | Atividade | Status |
